@@ -1,5 +1,5 @@
 import sys
-import pandas
+## supprimer import pandas
 
 
 def transformer_pLieu(pLieu):
