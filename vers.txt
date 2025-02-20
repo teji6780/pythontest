@@ -2,7 +2,7 @@ cle.bat
 Congig.reg
 index.html
 premierpy.py
-styles.css
-totolist
-Transformer2y.py
-vers.txt  eee
+
+#suppression et add 1
+
+6:35 PM 20-Feb-25 : #suppression et add 2
