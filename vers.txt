@@ -1,3 +1,5 @@
+Ajout de debut
+
 cle.bat
 Congig.reg
 index.html
@@ -7,3 +9,6 @@ Ceci entre le 1 et le 2
 6:50 PM 20-Feb-25 no 2
 6:50 PM 20-Feb-25 no 3 bon dieur
 6:51 PM 20-Feb-25  finale no 4
+
+
+Ajout de fin
