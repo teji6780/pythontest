@@ -1,6 +1,8 @@
 import sys
 ## supprimer import pandas
 
+# nouveau comment
+
 
 def transformer_pLieu(pLieu):
     # Transformation des caractères 2, 3 et 4
