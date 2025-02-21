@@ -9,3 +9,5 @@ vers.txt
 
 encore un truc
 de plus
+
+on va unstage
